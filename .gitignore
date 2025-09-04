@@ -1,0 +1,27 @@
+# Backend (Node.js)
+backend/node_modules/
+backend/.env
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/.npm
+backend/.yarn-integrity
+
+# Android/Kotlin
+Social_Media/.gradle/
+Social_Media/.idea/
+Social_Media/app/build/
+Social_Media/build/
+Social_Media/local.properties
+Social_Media/.kotlin/
+Social_Media/captures/
+Social_Media/.externalNativeBuild/
+Social_Media/.cxx/
+Social_Media/*.iml
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
