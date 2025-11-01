@@ -1,6 +1,6 @@
 # 📱 Social Media App (Android + Supabase)
 
-A **Reddit-style social media application** built with **Kotlin (Android)** and **Supabase**.  
+A **social media application** built with **Kotlin (Android)** and **Supabase**.  
 Users can register with email (with confirmation), update profiles, upload posts (images/videos), vote, comment, and chat in real-time via **WebSockets**.
 
 ---
@@ -77,7 +77,7 @@ Schema generated from Supabase:
 ## 🎥 Demo
 
 Watch the demo here:  
-👉 [Demo Video](https://drive.google.com/file/d/123lQ1NEJxYk0IktWgrXPvcvKjBkGqRpF/view?usp=sharing) *(replace with actual path/link)*
+👉 [Demo Video](https://drive.google.com/file/d/123lQ1NEJxYk0IktWgrXPvcvKjBkGqRpF/view?usp=sharing)
 
 ---
 
